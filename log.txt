@@ -1,0 +1,62 @@
+my-tweets
+Hello Twitter! #myfirstTweet
+Tweet Created: Sat Feb 17 09:48:29 +0000 2018
+------------------------------
+spotify-this-song
+Artist: Ace of Base
+Song: The Sign
+URL: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+Album: The Sign (US Album) [Remastered]
+------------------------------
+spotify-this-song,All the Small Things
+Artist: blink-182
+Song: All The Small Things
+URL: https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP
+Album: Enema Of The State
+------------------------------
+movie-this
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+------------------------------
+movie-this,The Matrix
+Title: The Matrix
+Release Year: 1999
+IMDB Rating: 8.7/10
+Rotten Tomatoes Rating: 87%
+Country: USA
+Language: English
+Plot: Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. Morpheus awakens Neo to the real world, a ravaged wasteland where most of humanity have been captured by a race of machines that live off of the humans' body heat and electrochemical energy and who imprison their minds within an artificial reality known as the Matrix. As a rebel against the machines, Neo must return to the Matrix and confront the agents: super-powerful computer programs devoted to snuffing out Neo and the entire human rebellion.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+------------------------------
+do-what-it-says
+Artist: Backstreet Boys
+Song: I Want It That Way
+URL: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+Album: The Hits--Chapter One
+------------------------------
+do-what-it-says
+Title: The Animatrix
+Release Year: 2003
+IMDB Rating: 7.4/10
+Rotten Tomatoes Rating: 89%
+Country: USA, Japan
+Language: English, Japanese
+Plot: Anthology of nine short anime (Japanese animation) films tied in to the 1999 blockbuster "The Matrix" and its sequels. "Final Flight of the Osiris": The crew of the hovercraft Osiris attempt to warn their city of an imminent attack. "The Second Renaissance, Parts 1 & 2": The story behind the war between man and the machines, how mankind scorched the sky, and the creation of the Matrix. "Kid's Story": A teenager is contacted by Neo, and manages to escape the Matrix. "Program": Two warriors battle in a samurai training simulation when one decides to betray his crewmates and re-enter the Matrix. "World Record": A champion sprinter manages to break free of the Matrix by sheer physical effort during a record attempt. "Beyond": A young girl searching for her cat discovers a haunted house caused by a glitch in the system. "A Detective Story": Private investigator Ash tracks a hacker named Trinity through the looking glass. "Matriculated": A group of humans capture a machine scout and insert it into a 'human matrix'.
+Actors: Kevin Michael Richardson, Pamela Adlon, John DiMaggio, Tom Kenny
+------------------------------
+do-what-it-says
+Artist: Backstreet Boys
+Song: I Want It That Way
+URL: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+Album: The Hits--Chapter One
+------------------------------
+do-what-it-says
+Hello Twitter! #myfirstTweet
+Tweet Created: Sat Feb 17 09:48:29 +0000 2018
+------------------------------
